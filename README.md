@@ -7,3 +7,4 @@ distribution) and the "inp" one takes input from user and puts output accordingl
 ## What is used
 A number is given, number of operators are given. Using this number of operators the program tries to create expression to evaluate
 the number. Genetic mutation and crossover algorithm is used here.
+Python 3 is used to implement it.
